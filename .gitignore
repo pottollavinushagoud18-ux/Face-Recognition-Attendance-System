@@ -1,0 +1,12 @@
+attendance_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.csv
+*.xml
+*.jpg
+*.jpeg
+*.png
+.DS_Store
